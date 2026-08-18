@@ -1,16 +1,16 @@
 1 {
-     name = "Имя программы"
-     discription = "Описание программы"
-     download_link = "https://domain.example/file/program.rar"
-     main_file = "главный исполняемый файл.exe"
-     icon_url = "https://domain.example/icon/program.png"
-     banner_url = "https://domain.example/banner/program.png"
-     author = "Автор"
+     name = "SoundPad"
+     discription = "Soundpad — это удобная программа, которая позволяет воспроизводить любые звуковые файлы и музыку через микрофон в голосовых чатах, мессенджерах и играх (например, в Discord, CS2 или Dota 2), поддерживая чистый цифровой звук, настройку горячих клавиш и автоматическое выравнивание громкости."
+     download_link = "https://github.com/1freshfork/freshstore/raw/refs/heads/main/apps/Soundpad.rar"
+     main_file = "SoundPad.exe"
+     icon_url = "https://mawtoload.com/wp-content/uploads/2025/06/Soundpad_0000.png"
+     banner_url = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDCThOEnCnI8Dgb8w8k_9uHFHyajLeQtqYExlpDVy5w6fHSHcTDde6gmA&s=10"
+     author = "Leppsoft"
      archive = true
-     kratko_discription = "Краткое описание программы"
+     kratko_discription = "Soundpad — программа для воспроизведения звуков и музыки через микрофон в играх и голосовых чатах."
 },
 
-1 {
+2 {
      name = "Имя программы 2"
      discription = "Описание программы 2"
      download_link = "https://domain.example/file/program2.exe"
