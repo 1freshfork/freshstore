@@ -1,0 +1,23 @@
+1 {
+     name = "Имя программы"
+     discription = "Описание программы"
+     download_link = "https://domain.example/file/program.rar"
+     main_file = "главный исполняемый файл.exe"
+     icon_url = "https://domain.example/icon/program.png"
+     banner_url = "https://domain.example/banner/program.png"
+     author = "Автор"
+     archive = true
+     kratko_discription = "Краткое описание программы"
+},
+
+1 {
+     name = "Имя программы 2"
+     discription = "Описание программы 2"
+     download_link = "https://domain.example/file/program2.exe"
+     main_file = "главный исполняемый файл.exe"
+     icon_url = "https://domain.example/icon/program2.png"
+     banner_url = "https://domain.example/banner/program2.png"
+     author = "Автор 2"
+     archive = false
+     kratko_discription = "Краткое описание программы 2"
+}
